@@ -5,8 +5,8 @@ import { fetchLocalMapBox } from '../api';
 import { OrderLocationData } from './types';
 
 const initialPosition = {
-    lat: -20.6249885,
-    lng: -43.4375747
+    lat: -19.9023386,
+    lng: -44.1233646
 } 
 
 type Place = {
